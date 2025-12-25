@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-03T06:30:43 IST" name="Surefire suite" finished-at="2025-12-03T06:30:43 IST" duration-ms="48">
+    <groups>
+    </groups>
+    <test started-at="2025-12-03T06:30:43 IST" name="Surefire test" finished-at="2025-12-03T06:30:43 IST" duration-ms="48">
+      <class name="Advance_selenium.TestNG.ReadTheDataXmlTest">
+        <test-method signature="test(org.testng.xml.XmlTest)[pri:0, instance:Advance_selenium.TestNG.ReadTheDataXmlTest@1e730495]" started-at="2025-12-03T06:30:43 IST" name="test" finished-at="2025-12-03T06:30:43 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.xml.XmlTest@e17bf7d8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Advance_selenium.TestNG.ReadTheDataXmlTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
